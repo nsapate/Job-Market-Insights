@@ -1,0 +1,494 @@
+Data Scientist;ABC Consultants Pvt Ltd;Data Science, Data Mining, Machine Learning, Time Series Analysis...;Mumbai;3-8 yrs
+Data Scientist (4-9 yrs);MakeMyTrip (India) Pvt Ltd;Hadoop, SQL, Neural Networks, Principal Component Analysis, R...;Bengaluru;4-9 yrs
+Data Scientist - Healthcare Sector - IIT/ Bits/ NIT/ IIM;Upgrade HR Consulting Pvt Ltd;Deep Learning, C, Java, Python, Machine Learning, Data Science, Algorithms,...;Bengaluru;10-15 yrs
+Data Scientist;Tesco Bengaluru Private Limited;Data Science, Customer Experience, Big Data, Subject Matter Expertise...;Bengaluru;4-6 yrs
+Data Scientist;DBOI Global Services Pvt. Ltd.;Machine Learning, Text Mining, Hadoop, R, Hive, Python, Data Science, Spark...;Pune;5-10 yrs
+Data Scientist - R/ Python/ SQL;Jugnoo;Data Science, Machine Learning, R, Python, SQL, Data Mining, Algorithms...;Chandigarh;2-5 yrs
+Data Scientist;MSCI Services Pvt. Ltd.;Data Science, Machine Learning, R, MATLAB, Financial Engineering, Python...;Mumbai;3-7 yrs
+Chief Data Scientist;DirecTech Labs;Data Science, Machine Learning, Python, R, Predictive Analytics, SQL...;Delhi NCR;13-20 yrs
+Data Scientist - R/ Weka/ SQL/ HIve;JobServer Consultancy Services;NoSQL, MongoDB, Hive, SQL, Data Science, R, Data Mining, Data Scientist;Bengaluru;7-12 yrs
+Chief Data Scientist;DirecTech Labs;Data Science, Machine Learning, Python, R, Predictive Analytics, SQL...;Delhi NCR;8-12 yrs
+Senior Data Scientist;CallHealth Services Private Limited;NLP, Python, MySQL, Text Analytics, Science, Javascript, R, SQL...;Hyderabad;10-20 yrs
+Data Scientist;Click labs;Data Science, Machine Learning, R, Python, SQL, Data Mining, Algorithms...;Chandigarh;2-5 yrs
+Senior Data Scientist;Schlumberger India Technology Centre Pvt Ltd;Text Mining, Machine Learning, Data Mining, Data Science, Data Analytics...;Pune;5-10 yrs
+Machine Learning Scientist;Live connections;R, Machine Learning, Data Science, Statistical Modeling, Cluster Analysis...;Bengaluru;5-8 yrs
+Senior Data Scientist;GE India Industrial Private Limited;Gas, Oil, Data Science, Machine Learning, Predictive Analytics...;Bengaluru;6-8 yrs
+Data Scientist;GE India Industrial Private Limited;Gas, Data Science, Machine Learning, Predictive Analytics, Statistics...;Bengaluru;3-5 yrs
+Sr. Data Scientist;SlicePay;Python, Data Science, MongoDB, Machine Learning, Hadoop, R, Algorithms...;Bengaluru;1-3 yrs
+Machine Learning - Lead Data Scientist;Entropika - Startup;Machine Learning, Neural Networks, R, Data Science, Python...;Bengaluru;4-7 yrs
+Associate -core Modeling(data Scientist);JPMorgan Chase;Associate , Core Modeling , Data Scientist, Information technology...;Mumbai;1-5 yrs
+Field Applications Scientist - Lifesciences - Genomics;Premas Life Sciences Pvt Ltd;Technical Training, Life Sciences, Clinical Research, Technical Support...;Delhi, Delhi NCR;2-5 yrs
+Data Scientist;Intertrust Technologies Corporation;Deep Learning, Text Mining, NLP, Data Science, R, Python, Machine Learning,...;Bengaluru Bangalore;10-20 yrs
+Data Scientist - Python;OST Placement Search Private Limited;Marketing Analytics, python, machine learning, NLP, statistical...;Delhi NCR;2-7 yrs
+Data Scientist/ Data Analyst;Innobox Systems Pvt Ltd;SOAP, MongoDB, Hadoop, Python, Web Services, Data Analysis...;Hyderabad;2-6 yrs
+Lead Data Scientist - Machine Learning/r/python;Husys;Data Science, R, Machine Learning, Python, Leadership, Data Analytics...;Hyderabad;8-13 yrs
+Data Scientist for a Funded Startup at Delhi;ExpertEase Software (India) Private Limited;Hadoop, Hive, Spark, Pig, HBase, R, Natural Language Processing...;Delhi, Delhi NCR;4-5 yrs
+Principal Data Scientist;DirecTech Labs;Data Science, Machine Learning, Python, R, Predictive Analytics, SQL...;Delhi NCR, Noida;13-20 yrs
+Principal Data Scientist;DirecTech Labs;Data Science, Machine Learning, Python, R, Predictive Analytics, SQL...;Delhi NCR, Noida;8-13 yrs
+Senior Data Scientist - Machine Learning/signal Processing;Confidential;Deep Learning, R, Python, Data Science, Signal Processing...;Bengaluru;3-5 yrs
+Data Scientist - Machine Learning/nlp - Premium Institute;Premium;Machine Learning, Natural Language Processing, Text Mining...;Delhi NCR, Gurgaon;2-6 yrs
+Research Scientist: Machine Learning;Busigence Technologies- Startup;Research Scientist, Machine Learning, Statistics, Algorithms, Research...;Delhi;3-5 yrs
+Principal Data Scientist;Startup-Pervazive;Deep Learning, Data Science, Python, Machine Learning, R, Computer Science;Bengaluru;3-5 yrs
+Data Scientist;Busigence Technologies- Startup;Data Scientist, Logistic Regression, SVM, machine learning, Python...;Delhi NCR;3-5 yrs
+Principal Software Development Engineer - Data Scientist;Citrix;Principal Software Development Engineer , Data scientist, Analytical...;Bengaluru;15-20 yrs
+Scientist/senior Scientist - Research & Development Unit;FuteMind Technologies Pvt Ltd;Machine Learning, Research, Data Structures, algorithms, serialization...;Bengaluru;0-5 yrs
+Data Scientist - Decision Science Unit;IndusInd Bank;Hadoop, Java, Hive, Pig, MS SQL Server, NoSQL, Algorithms, Spark...;Gurgaon;5-8 yrs
+Data Scientist - Decision Science Unit;IndusInd Bank;Data Scientist, MySQL, data mining, analytics, PL / SQL, programming...;Gurgaon;5-8 yrs
+Data Scientist - IIT;Rediff.com India Ltd;Data scientists, Data Science, Machine learning...;Delhi NCR, Mumbai, Bengaluru;2-7 yrs
+Data & Applied Scientist;Microsoft India (R and D) Pvt Ltd;php, perl, development, python, microsoft, algorithms, agile...;Hyderabad;5-10 yrs
+Data Scientist / Big Data Analytics - Dgm/manager;Profile Quest;Hadoop, Hive, Pig, NoSQL, Data Science, Data Analysis, Big Data Analytics...;Chennai;10-18 yrs
+Data Scientist;ibibo Group Private Limited;Predictive Analytics, Product Engineering, Predictive Modeling...;Bengaluru;2-5 yrs
+Data & Applied Scientist;Microsoft India (R and D) Pvt Ltd;microsoft, Agile, Computer science, Distribution system, Machine learning...;Bengaluru;5-10 yrs
+Decision Scientist / Analytics;INFOFACES TECHNOLOGY SOLUTIONS PRIVATE LIMITED;Linear Regression, Data Science, Data Mining, Data Analysis, Time Series...;Chennai;0-1 yrs
+Data Scientist;Alpha Nodus - Startup;Data Scientist, MongoDB, Machine Learning, Data Science, Python, Perl;Bengaluru;4-5 yrs
+Data Scientist;Mobiport.io - Startup;Hive, Spark, Machine Learning, Python, R, SQL, Data Mining, Algorithms...;Hyderabad;3-5 yrs
+Urgently Opening for | Data Scientist ;OYO Rooms, Oravel Stays Private Limited;R, Deep Learning, Hive, SQL, Data Science, Statistical Modeling...;Gurgaon;2-4 yrs
+Data Scientist;IStyleYou - Startup;Data Science, Machine Learning, Python, Algorithms, Java, SQL, R, Strategy,...;Gurgaon;2-4 yrs
+Data Scientist (Ph. D. Candidates Only);Leoforce India Private Limited;Data Analytics, Big Data, Data Science, Mathematics, Machine Learning, AI;Hyderabad;1-6 yrs
+Data Scientist;Leoforce India Private Limited;Data Analytics, Big Data, Data Science, Mathematics, Machine Learning, AI;Hyderabad;5-10 yrs
+Data Scientist;Startup - Adoro;R, Statistics, Python, Statistical Software, Computer Science;Mumbai;2-5 yrs
+Hiring : Microsoft Research (hyderabad/bangalore) - Machine Learning;Microsoft India (R and D) Pvt Ltd;Machine Learning, information retrieval, data mining...;Hyderabad, Bengaluru;5-10 yrs
+Data Scientist;Ericsson;Data Scientist, machine learning, programming, SAS, SPSS, Matlab, Octave...;Bengaluru;3-6 yrs
+Data Scientist;E I DuPont India Private Limited;data science, Python, Algorithms, MATLAB, Computer science...;Hyderabad;2-5 yrs
+Data Scientist;Ecolibrium Energy;Data Analytics, Preventive Maintenance, Predictive Modeling...;Ahmedabad, Gujarat;5-10 yrs
+Principal Data Scientist;DirecTech Labs;R, Machine Learning, Data Science, Python, Predictive Analytics, SQL...;Delhi NCR, Noida;13-20 yrs
+Lead Data Scientist - Education;Nacre Hr Outsourcing;Quality Documentation, data scientist, Data science, SAS, R, Regression...;Mumbai;8-12 yrs
+Principal Data Scientist;DirecTech Labs;R, Machine Learning, Data Science, Python, Predictive Analytics, SQL...;Delhi NCR, Noida;8-13 yrs
+Lead Data Scientist - KPO;Nacre Hr Outsourcing;Lead Data Scientist, Data science, SAS, R, Data Management, Data Modeling;Mumbai;8-13 yrs
+Chief Data Scientist;DirecTech Labs;Data Science, Machine Learning, Big Data, Python, R, Predictive Analytics...;Delhi NCR;13-20 yrs
+Data Scientist - Chennai;SP Staffing Services Private Limited;Data Analytics,  R,  Python,  SQL,  Data Scientist,  DataScientist,  Data -...;Chennai;0-5 yrs
+Chief Data Scientist;DirecTech Labs;Data Science, Machine Learning, Big Data, Python, R, Predictive Analytics...;Delhi NCR;8-13 yrs
+Data Scientist - ( Mumbai / Pune / Chennai );SP Staffing Services Private Limited;Data Scientist, DataScientist, Data - Scientist, Data Science, Datascience,...;Mumbai, Pune;3-8 yrs
+Lead Data Scientist - Machine Learning/r/python - IIT, Iiit, NIT, IISc;Husys;Hadoop, Hive, Data Science, Spark, Mapreduce, R, Machine Learning, Python...;Bengaluru;8-13 yrs
+Lead- Data Scientist;Sagacito HR;Hadoop, Hive, Spark, Pig, HBase, R, Natural Language Processing...;Delhi;8-10 yrs
+Senior Manager - Data Scientist;Premium;Logistic Regression, Arima, SAS, R, Time Series, NLP, Data Science, Machine...;Pune;7-10 yrs
+Tacit- DDC- Senior Data Scientist;Shell India Markets Private Limited;Data Science, SCOPE, Data Analytics, Agile, Machine Learning, Lean...;Bengaluru;2-3 yrs
+Data Scientist / Machine Learning - 7 - 12 Years / Bangalore ;V- Konnect Associates;Machine Learning, NLP, Data Science, Data Scientist...;Bengaluru;7-12 yrs
+Data Scientist;AlgoAnalytics Financial Consultancy Private Limite;Analytics, Data Science, Data Visualization, R, Python, Matlab...;Pune;2-6 yrs
+Lead Engineer - Data Science;Kaalbi Technologies Private Limited (shieldsquare);Data Analytics, Data Science, Data Quality;Bengaluru;4-7 yrs
+Trainer - Business Analytics;REVA University;Marketing, Business Analysis, Data Science, Business Analytics, SQL...;Bengaluru;5-8 yrs
+Software Engineer II;Microsoft India (R and D) Pvt Ltd;development, microsoft, data structures...;Hyderabad;1-5 yrs
+Manager - Data Science - Kpo/consulting Firm;Crescendo Global Services;Logistic Regression, Arima, R, SAS, Time Series, NLP, Data Science, Machine...;Pune, Bengaluru;7-12 yrs
+Senior Manager - Data Science;Crescendo Global Services;Logistic Regression, Arima, R, SAS, Time Series, NLP, Data Science, Machine...;Pune;7-10 yrs
+Senior Manager - Data Science;Crescendo Global Services;Logistic Regression, Arima, R, SAS, Time Series, NLP, Data Science, Machine...;Pune;10-17 yrs
+Analyst/associate - Data Science & Artificial Intelligence - Java;Crescendo Global Services;Artificial Intelligence, Java, Machine Learning, Data Science...;Mumbai;2-5 yrs
+Astrazeneca Hiring Adobe Campaign Operators - Chennai;AstraZeneca India Pvt Ltd;campaign, html, javascript, neolane, adobe;Chennai;3-7 yrs
+Data Scientist;Ecozen Solutions - Startup;Data Scientist, Python, MATLAB, Hadoop, SQL, algorithms, Analytics;Pune;2-3 yrs
+Data Scientist;Startup jobs-Razorpay;Machine Learning, Data Scientist;Bengaluru;2-6 yrs
+Hiring for Senior Data Scientist ;Annik Technology services Pvt. Ltd;HTML, Javascript, Hive, ASP, Spark, .Net, Python, Ubuntu Linux...;Gurgaon;3-6 yrs
+Data Scientist;Microsoft India (R and D) Pvt Ltd;Service, SAS, SQL, Data analysis, Consulting, Forecasting, Data mining...;Hyderabad;10-12 yrs
+Machine Learning Engineer/data Scientist - R/python;Phenom People Pvt Ltd;NLP, Machine Learning, Python, R, Data Science, Algorithms...;Hyderabad;2-6 yrs
+Looking For Lead Data Scientist @ Mumbai with Leading IT MNC;AddRec Solutions Pvt.Ltd.;C, Java, C++, Algorithms, MySQL, Python, Algorithm Development...;Mumbai;8-13 yrs
+Machine Learning /applied Scientist /engineer Jobs in Microsoft,india;Microsoft India (R and D) Pvt Ltd;Deep Learning, Pattern Recognition, Python, Artificial Intelligence...;Hyderabad;6-11 yrs
+Staff Data Scientist;GE India Industrial Private Limited;Staff Data Scientist, analytics development, analytics, Data Scientist...;Bengaluru;5-8 yrs
+Data & Analytics Scientist;GE India Industrial Private Limited;R, Machine Learning, Python, Predictive Analytics, SQL, Data Analytics...;Bengaluru;2-3 yrs
+Data Scientist;Microsoft India (R and D) Pvt Ltd;Service, SAS, SQL, Data analysis, Consulting, Forecasting, Data mining...;Hyderabad;8-10 yrs
+Principal Data Scientist;GE India Industrial Private Limited;Principal Data Scientist, analytic, Python, analytics, predictive analytics...;Bengaluru;10-15 yrs
+Senior Data Scientist;Payjo - Startup;Deep Learning, Hadoop, Java, Python, Algorithms, NoSQL, Neural Networks...;Bengaluru;5-8 yrs
+Data Scientist;Microsoft India (R and D) Pvt Ltd;Service, SAS, SQL, Data analysis, Consulting, Forecasting, Data mining...;Hyderabad;10-13 yrs
+Data & Applied Scientist;Microsoft India (R and D) Pvt Ltd;Service, SAS, SQL, Data analysis, Consulting, Forecasting, Data mining...;Hyderabad;6-10 yrs
+Data & Applied Scientist;Microsoft India (R and D) Pvt Ltd;Service, SAS, SQL, Data analysis, Consulting, Forecasting, Data mining...;Hyderabad;6-8 yrs
+Data Scientist;Fortraiz - Startup;Natural Language Processing, Machine Learning, Data Analyst, Data Scientist...;Bengaluru;2-4 yrs
+Data Scientist - Hadoop/ Machine Learning/ Nosql - IIT / NIT / BITS;Premium-Jobs;Python, Machine Learning, R, SQL, Spark, Hadoop, Java, NoSQL, Hive...;Bengaluru;2-5 yrs
+Sr Data & Analytics Scientist;GE India Technology Pvt. Ltd.;Analytics, Data & Analytics Scientist, R, Python, programming...;Bengaluru;4-8 yrs
+Urgent Opening For MIS Executive at Sanpada.;DSM Infocom Pvt Ltd;VLOOKUP, Excel, HLOOKUP, Formulas, Data Validation, MIS, Key Skills;Mumbai;0-2 yrs
+Data Scientists/ Senior Developers/ Architects;AlgoSquare Data Science Pvt Limited;Hadoop, SQL, Hive, R, Statistical Modeling, SAS, Advanced Analytics...;Bengaluru;3-8 yrs
+Analyst/associate;JPMorgan Services India Pvt. Ltd;Text Mining, Natural Language Processing, Information Retrieval...;Mumbai;1-4 yrs
+Data Scientist;Sandvik Asia Pvt. Ltd.;Data Analytics, Data Science, Life Cycle;Bengaluru;5-10 yrs
+Lead - Business Analyst;Swiggy;Text Mining, Hadoop, Hive, Predictive Analytics, Spark, Machine Learning, R...;Bengaluru;4-6 yrs
+Data Scientist;HEWLETT PACKARD ENTERPRISE PRIVATE LIMITED;Data Mining, Machine Learning, Analytics, Statistical Analysis, R, NumPy, k...;Bengaluru;6-10 yrs
+Data Scientist;IBusiness Software Private Limited;Natural Language Processing, Data Science, Machine Learning, Data Mining...;Bengaluru;6-11 yrs
+Data Scientist;Call Health Services Pvt. Ltd.;Science, Data Mining, Interpersonal Skills, R;Hyderabad;2-5 yrs
+Hiring Computer Scientist - Adobe Lightroom Team - Bengaluru;Adobe Systems India Pvt. Ltd.;HTML, CSS, Javascript, C, Object Oriented Design, Data Structures...;Bengaluru;6-10 yrs
+Developer Engineer and Data Scientist;Pin Click - Startup;Python, SCALA, Java, Data Science, Machine Learning, Javascript, Hadoop, R,...;Bengaluru;3-4 yrs
+TCS BPS Hiring for Data Scientist for Kolkata Location;Tata Consultancy Services Ltd.;Factor Analysis, Logistic Regression, Chaid, Cluster Analysis, SAS, R...;Kolkata;4-9 yrs
+Vacancy for Scientist/principal Scientist-biochemical QC (mabs);KEMWELL PVT. LTD.;Capillary Electrophoresis, Biochemical QC, ELISA PCR, Potency assay...;Bengaluru;10-15 yrs
+Senior Computer Scientist;Adobe Systems India Pvt. Ltd.;Senior Computer Scientist, programming, iOS, Windows, C++, Java...;Noida, Bengaluru;7-10 yrs
+Bioinformatics Scientist;MEDGENOME- Startup;Bioinformatics Scientist, Bioinformatics, Perl, Php, Python, R, Java, Html,...;Bengaluru;2-3 yrs
+Chief Data Scientist;DirecTech Labs;Data Science, Machine Learning, Big Data, Python, R, Predictive Analytics...;Delhi NCR;13-20 yrs
+BIG Data Scientist - Security - Predictive Modeling / Machine Learning;CONFIDENTIAL;Predictive Modeling, Machine Learning, Bigdata;Mumbai;5-7 yrs
+Chief Data Scientist;DirecTech Labs;Data Science, Machine Learning, Big Data, Python, R, Predictive Analytics...;Delhi NCR;8-13 yrs
+Data Scientist;WebEngage - Startup;Data Scientist, SQL, machine learning, ETL, Analytics, databases;Mumbai;3-5 yrs
+Data Scientist/ Machine Learning Programmer;Zebi- Startup;Data Scientist, Machine learning, Java, Python, big data, SQL;Andhra Pradesh;3-5 yrs
+Data Scientist;Hachi - Startup;Data Scientist, programming, Python, Matlab, Machine Learning...;Bengaluru;5-8 yrs
+Data Scientist-ml and AI;Metaiot Technologies - Startup;Data Scientist, programming, Python, Matlab, Machine Learning...;Bengaluru;2-4 yrs
+Data Entry Executive;Elenctic Solutions;Data entry, Typing, MS Office, Jobs;Hyderabad;0-3 yrs
+Data Scientist/analytics;gNxt Systems;Data Scientist, Analytics, Data Management, SQL, Python, data science...;Noida;11-15 yrs
+Lead - Data Scientist - R/ Python/ Scala;Husys;Hadoop, Hive, Data Science, Spark, Mapreduce, R, Machine Learning, Python...;Hyderabad;10-15 yrs
+Data Scientist;Terra Blue Exploration Technologies Pvt. Ltd.;C, NLP, Python, C++, Java, Machine Learning, Data Science, Data Mining, Big...;Bengaluru;5-10 yrs
+Lead Data Scientist;Mount Talent consulting;Data Analytics, Data Science, Leadership, Statistical Analysis...;Bengaluru;10-16 yrs
+Lead Data Scientist;Mount Talent consulting;Data Analytics, Data Science, Leadership, Statistical Analysis...;Bengaluru;10-16 yrs
+Data Scientist;Schlumberger India Technology Centre Pvt Ltd;Text Mining, Machine Learning, Data Mining, Data Science, Analytics...;Pune;2-5 yrs
+Algorithm Analyst - Data Scientist - Low Latency;Premium;Algorithms, Data Structures, Java, Multithreading, OOPS, Algo, Distribution...;Mumbai;8-13 yrs
+Data Scientist;Lantern Health Servcies Pvt Ltd;SQL, Python, Perl, PHP, Computer Science, Quantitative Analysis;Delhi NCR;7-12 yrs
+Senior Data Scientist;Careernet Technologies Pvt Ltd;Demand Forecasting, Time Series, Statistical Analysis, Supply Chain...;Bengaluru;5-10 yrs
+Data Analytics / Data Scientist ( R & Python with Machine Learning);Mississippi Consultants LLP;R, Python, Machine Learning, MS SQL Server, C++, SAS, Data Mining, MATLAB...;Pune;5-10 yrs
+Data Analytics / Data Scientist;Mississippi Consultants LLP;Text Mining, R, Machine Learning, Statistical Modeling, Predictive Modeling...;Pune;5-10 yrs
+Data Scientist  for a Ecommerce Product R&D;Careernet Technologies Pvt Ltd;Machine Learning, Pattern Recognition, Statistical Analysis, Data Mining...;Bengaluru;4-9 yrs
+Data Scientist;Premium-Jobs;Machine Learning, Python, Hadoop, Data Analysis, Operations Research...;Pune;1-5 yrs
+Research Associate/scientist - Organic Chemist (2-6 Years);Oxygen Healthcare Research Pvt Ltd.;Synthesis, Research, organic chemistry, chemist, medicinal chemistry, TLC...;Ahmedabad;1-6 yrs
+Big Data Architect - SQL/ Nosql;Confidential;Big Data Architect, Big Data, SQL, NoSQL, EhCache, OSCache, Docker, Vagrant...;Mumbai;5-8 yrs
+Principal Data Scientist;Altiux Innovations - Startup;Principal Data Scientist, Data Scientist, NoSQL, Hadoop, HBase, CouchDB...;Bengaluru;5-7 yrs
+Data Scientist;Cargill India Pvt. Ltd.;sql, software development, python, algorithms, clustering, consulting...;Bengaluru;6-10 yrs
+Junior Data Scientist;m.Paani - Startup;R, Excel, Predictive Modeling, Python, Statistical Analysis...;Mumbai;3-5 yrs
+Senior Data Scientist - Machine Learning;Delhivery Private Limited;Data Scientist, Machine Learning, Big Data, Spark, Hadoop, NoSQL, Neo4J...;Gurgaon;2-5 yrs
+Data Scientist;HEWLETT PACKARD ENTERPRISE PRIVATE LIMITED;Technical Support, Solution Integration, Technical Leadership...;Bengaluru;8-10 yrs
+Data Scientist (machine Learning);Mphasis Limited;Machine Learning, Data Analytics, Data Mining, Phd, Python...;Bengaluru;4-9 yrs
+Executive - Business Development Support (formulations);Puneet Laboratories Pvt. Ltd.;Business Development, Marketing Support, Cold Calling, Product Presentation...;Mumbai;1-2 yrs
+Business Development Executive-exide, Bilaspur;EXIDE INDUSTRIES LTD;Business Development, channel sales, dealer, distribution, distributor...;Bilaspur;2-6 yrs
+Associate Officer -electrical Maintenance(haldia);EXIDE INDUSTRIES LTD;Electricals, Breakdown Maintenance, Preventive, Energy Conservation...;Haldia;0-3 yrs
+Associate Officer -mechanical  Maintenance(haldia);EXIDE INDUSTRIES LTD;Electricals, Breakdown Maintenance, Preventive, Energy Conservation...;Haldia;0-3 yrs
+Data Scientist;Artissary - Startup;Data Scientist, Data Mining, Python, algorithms, UNIX, Hadoop...;India;5-10 yrs
+Research Scientist - Artificial Intelligence;Marax AI- Startup;Artificial Intelligence, Research Scientist, Caffe, TensorFlow, Theano...;Bengaluru;2-4 yrs
+Research Scientist (NLP - Text Analytics);Accenture Solutions Pvt Ltd;Machine Learning, Text Mining, NLP, Text Analytics...;Bengaluru;5-9 yrs
+Recruitment Executive (On Contract Payroll);Dimension Data India Pvt Ltd.;It Hiring, information technology hiring, it staffing, infra hiring...;Mumbai, Bengaluru;2-6 yrs
+Lead Data Scientist;SlicePay - Startup;Product Development, Risk Assessment, Data Scientist, R, python...;Bengaluru;2-4 yrs
+Data Scientist;Anitya information solutions - Startup;Data Scientist, Machine Learning, Programming, Python, Perl, Big Data, Data...;Bengaluru;3-4 yrs
+Vacancy For Data Scientist - Pune (cummins India Limited);Cummins India Ltd;data analytics, data scientist, SAS, statistics, predictive modelling...;Pune;2-7 yrs
+Walk-ins on 23rd Feb for MIS Executive(male)-delhi;Sodexo Facilities Managment Solutions India Pvt. Ltd.;Excel, MIS Generation, Reporting, Analytical Skills, Time Management...;Delhi;1-3 yrs
+Urgent Opening - MIS Executive;OPPO MOBILES MU PRIVATE LIMITED;Excel, Powerpoint, Word, Typing Speed, computer operator speed , data entry...;Pune;1-2 yrs
+Executive- MIS Markets;KPMG;Executive- MIS Markets, Sales Analytics, Financial Analytics, Data Modeling...;Noida;5-7 yrs
+Principal Analyst- Data Science/statistics/analytics - IIT / BITS /NIT;Swiggy;SAS, Python, R, Hadoop, Hive, HBase, Spark, Propensity Modelling...;Bengaluru;4-7 yrs
+Product Manager;Amadeus Software Labs India Pvt Ltd;Product Manager, Presales, Service, Recruitment, Account management, RFP...;Bengaluru;4-9 yrs
+Machine Learning Engineer;Startup - Scandid;Algorithms, C++, NLP, Python, Data Structures, Object Oriented Programming,...;Pune;2-4 yrs
+Chief Data Scientist;DirecTech Labs;Chief Data Scientist, Predictive Analytics, Machine Learning, SQL...;Delhi NCR;13-20 yrs
+Technical Engineer I;NALCO WATER INDIA LIMITED;Data Analytics, R, Sales, Statistics, Data Science, Predictive Modeling...;Pune;2-4 yrs
+Chief Data Scientist;DirecTech Labs;Chief Data Scientist, Predictive Analytics, Machine Learning, SQL...;Delhi NCR;8-13 yrs
+Medical Science Liaison;Mitra Biotech;Medical Science Liaison;Bengaluru;1-3 yrs
+Senior Data Scientist;DirecTech Labs;Senior Data Scientist, Machine Learning, Analytics, Business Intelligence...;Delhi NCR;13-20 yrs
+Java Developer;Nice interactive solutions India pvt ltd;java;Pune;2-4 yrs
+Senior Data Scientist;DirecTech Labs;Senior Data Scientist, SQL, Business Intelligence, Machine Learning...;Delhi NCR;8-13 yrs
+Machine Learning Consultant;Gamut Analytics  - Startup;Machine Learning, Natural Language Processing, NLP, Text Analytics...;Mumbai;3-5 yrs
+Need Trained Data Science Consultant;DataFactZ;Data Science;Hyderabad;0-2 yrs
+Data Scientist/engineer;Premium-Jobs;MySQL, NoSQL, Python, Rest, Algorithms, Data Analysis, Data Engineering...;Bengaluru;2-4 yrs
+Principal Data Scientist;DirecTech Labs;Principal Data Scientist, Data Analytics, Machine Learning...;Delhi NCR, Noida;13-20 yrs
+Principal Data Scientist;DirecTech Labs;Principal Data Scientist, Data Management, SQL, Machine Learning...;Delhi NCR, Noida;8-13 yrs
+Content Executive/ Data Extraction/data Mining;Shree Computer Pundits Services Pvt Ltd;MS Office Package, Internet, e commerce, web, BPO, call center , bpo , ites...;Kanpur;0-2 yrs
+Content Executive/data Entry;CityBump : Do More, Save More;Data Entry, Ms word, ms excel, excellent knowledge of computer, content...;Mumbai;0-2 yrs
+Sr Data & Applied Scientist;Microsoft India (R and D) Pvt Ltd;microsoft, algorithmsapi, data miningmachine learning, azure, shipping...;Bengaluru;7-12 yrs
+Officer / Executive - Medical Writing;Hetero Drugs Limited;Medical Writing, Clinical Trials;Hyderabad;2-6 yrs
+Officer / Executive / Sr. Executive / Assistant Manager / Dy. Manager;Cadila Healthcare Ltd.;GC, Quality Assurance, QA, Quality Control, HPLC, Adl, Method Validation...;Vadodara;1-6 yrs
+Senior .net/asp.net MVC Developer in c#;Galytix;C#, ASP.Net MVC, .Net, Design Patterns, Web Technologies, Data Analytics...;Gurgaon;5-8 yrs
+Catalog Executive-addicshop.com-data Entry & Spreadsheets-3 Vacancies;Addic Shop Private Limited;English Writing, data entry, data entry operator, computer operator...;Delhi;0-1 yrs
+Oss/bss Design Architect;Tech Mahindra Ltd.;OSS, BSS, Design Architecture, Technical architect, Solution Designing;Bengaluru;4-9 yrs
+Data Scientist / Predictive Analyst;IRIS Software;R programming, machine learning, python, predictive analyst, data scientist...;Noida, India;5-10 yrs
+MIS Executive;Premium;Macros, VBA, MIS, Data Analytics, Advanced Excel;Delhi;4-9 yrs
+MIS Executive;Stonex India Pvt. Ltd;Monthly Reports, Report Preparation, Advance Excel, Excel formulas...;Delhi, Delhi NCR;2-6 yrs
+L&D Sr. Executive;Narayana Educational Society;Employee Training, Database, B, Communication Skills, MS Office...;Hyderabad, Vijayawada;3-4 yrs
+Sr.executive-icsr;Strides Shasun Limited;MedDRA, Pharmacovigilance, Data Entry, Sr.Executive;Bengaluru;2-5 yrs
+Senior Executive;HCL Technologies;ERP, MS Data management, MIS, Reports, HR Policies, Recruitment...;Noida;3-5 yrs
+Opening for Backup Executive;Infinite Computer Solutions India Ltd.;Oracle Database, File System, Emc Networker, Backup Exec, Issue Resolution,...;Bengaluru;3-7 yrs
+MIS Executive (jasola);WTC Noida Development Company Private Limited;MIS Reporting, Management Reporting, Data Management, Trend Analysis...;Delhi;2-3 yrs
+MIS Executive ( Female Candidates for Kandivali Location);Vov International;admin, MIS, data entry, data feeding, excel, word, typing...;Mumbai;1-2 yrs
+Intelenet Global is Hiring for MIS -executive ( MNC -bank);Intelenet Global Services Private Limited;Excel, Pivot Table, VLOOKUP, MIS, Data Entry;Pune;1-5 yrs
+Online MIS Executive (handling International Customers);G.M.Global;Advanced Excel, MIS, Written Communication, Interpersonal Skills...;Mumbai, Mumbai Suburbs;2-3 yrs
+MIS Executive;Haptik Infotech Pvt Ltd;Excel, Written Communication, Interpersonal Skills, Analytical Skills, Data...;Mumbai;2-5 yrs
+MIS Executive(walk-in at HO from Monday to Friday 10:30am -1:30pm);Nysaa retail Pvt Ltd.;MIS, Data Management, vlookup, pivot table, macros;Gurgaon;1-3 yrs
+Data Science SME;Fedex TSCS India Pvt Ltd;Data Analysis, Data Analytics, Data Mining, Data Modeling, Data Integration...;Mumbai;2-7 yrs
+Senior Architect - Data Science;Fidelity Investments;Chaid, Factor Analysis, Linear Regression, R, Anova, Time Series...;Chennai;11-15 yrs
+Aalytics ( SAS and R ) - Life Sciences Project;The RedWood Horizon;R, SAS, Multivariate Analysis, Machine Learning, VB, Predictive Modeling...;Mumbai;3-8 yrs
+Research Associate (invivo Animal Studies);C Drive HR Services Pvt Ltd;animal dosing, pharmacokinetics, in vivo, immuno oncology, in - vivo...;Bengaluru Bangalore;2-5 yrs
+Sr Manager - Data & Analytics;GE India Industrial Private Limited;Data Modeling, Predictive Analytics, Data Analytics, ETL...;Bengaluru;6-8 yrs
+Sr Technical Product Manager;GE India Industrial Private Limited;Technical Product Manager, JPA, Hibernate, JDBC, Spring Data, JavaScript...;Noida;6-8 yrs
+Sr Software Engineer;GE India Industrial Private Limited;Object Oriented Analysis, HTML5, Java Script, Angular, web services, Spring...;Hyderabad;5-7 yrs
+Manager - Data & Analytics;GE India Industrial Private Limited;Data Science, Data Analytics, Big Data, Operational Excellence...;Bengaluru;7-8 yrs
+Sr Analytics Engineer;GE India Industrial Private Limited;Data Analytics, Predictive Analytics, Data Quality, Development Testing...;Mumbai;5-6 yrs
+Sr Software Engineer;GE India Industrial Private Limited;Data Structures, Algorithms, Software Development Life Cycle, Scalability...;Hyderabad;5-7 yrs
+Data Scientist - Statistical Modeler;CitiusTech Healthcare Technology Pvt Ltd.;Data Scientist, Statistical Modeler, SPSS, SAS, R, Python...;Mumbai, Navi Mumbai;4-9 yrs
+Scientist-advanced Microbiomic Analytics" (biologist);IDS Infotech Ltd.;Molecular Biology, Microbiology, Genetics, RT - PCR, RNA...;Chandigarh, Mohali;4-8 yrs
+Data Scientist - IIT/ ISI;Truebil.com;Machine Learning, R, Python, SQL, SAS, Data Mining, Statistical Modeling...;Mumbai;2-5 yrs
+Executive/sr. Executive - MIS;Max Healthcare Institute Ltd;MIS, management information system, mis executive, mis reporting, reporting...;Gurgaon;1-4 yrs
+Principal Data Scientist - Data Analytics - Python - KPO;Â Symmetrical Global Search Pvt. Ltd;Hadoop, Hive, Flume, Oozie, Sqoop, Pig, HBase, R, Big Data...;Delhi NCR, Noida;8-13 yrs
+L&T Infotech Powai Invites Bigdata Architect ;Larsen & Toubro Infotech Limited;Hadoop, HBase, Pig, NoSQL, SQL, MongoDB, Oozie, spark, Sqoop, Flume, HIVE...;Mumbai;10-15 yrs
+Data Scientist - Gurgaon;Milliman India Pvt Ltd;HTML, CSS, Javascript, SQL, Python, Web Technologies, Software Engineering,...;Gurgaon;1-3 yrs
+L&T Infotech Chennai Invites Bigdata Architect ;Larsen & Toubro Infotech Limited;Hadoop, HBase, Pig, NoSQL, SQL, MongoDB, Oozie, spark, Sqoop, Flume, HIVE...;Chennai;10-15 yrs
+Con / AM - Data Scientist;Pylon Management Consulting Pvt Ltd;SAS, Statistical Modeling, SQL, Business Analytics, Statistical Analysis...;Bengaluru;4-9 yrs
+Senior Account Executive - South Job;SAP India Pvt.Ltd;ERP, Software Sales, CRM, SAP, Cloud, Technology, Sales;Bengaluru;12-17 yrs
+Data Entry Operator / Warehouse Executive;Triveniethnics.com - Startup;Data Entry Operation, Accounting, Accountancy, Data Entry Operator...;Hyderabad;0-5 yrs
+Data Architect;Larsen & Toubro Infotech Limited;Oracle SQL, SQL Server, Informatica, Data Modeling, Data Warehousing...;Mumbai, Chennai, Bengaluru, Pune;8-13 yrs
+Logistics & Accounts Executive;Shani Peripherals Private Limited;Accounting, Auditing, Stock Audit, Sales Order, Tally, Distribution...;Ahmedabad;2-5 yrs
+Data & Applied Scientist II;Microsoft India (R and D) Pvt Ltd;microsoft, Agile, Computer science, Distribution system, Machine learning...;Bengaluru;5-10 yrs
+Sr Data & Applied Scientist;Microsoft India (R and D) Pvt Ltd;microsoft, Agile, Computer science, Distribution system, Machine learning...;Bengaluru;10-12 yrs
+Data Scientist;Startup - FeltSo;Deep Learning, Spark, NLP, Data Science, Text Analytics, Big Data, Python...;Hyderabad;2-5 yrs
+Data Scientist;Helpshift - Startup;Data Science, machine learning, general statistics, Java, Python, R;Pune;1-5 yrs
+Software Engineer- Data Scientist;Startup - HealthFace;Data Structures, Algorithms, Data Science, Software Engineering...;Bengaluru;2-4 yrs
+Data Scientist;Dunzo - Startup;Data Science, Web Technologies, Machine Learning, R, Matlab...;Bengaluru;5-7 yrs
+Data Engineer / Data Scientist;Kukun Inc;Spark,  Data Science,  Hive,  NoSQL,  Big Data,  Machine Learning,  Python,...;Bengaluru;1-3 yrs
+CTO;Turbizo - Startup;Strategic Planning, Marketing, IT, Strategy, Production Operations...;Bengaluru;5-10 yrs
+Technology Architect - Pune;Malomatia;Networking, Network Topologies, Technology Solutions, Data Management...;Pune;5-10 yrs
+Immediate!onsite Opening For E-commerce Architect;NU technology Inc;Gradle, Spring Boot, Ant, Maven, Oracle, SVN, GIT, JSON, Atg Commerce...;Chennai, Latin America;10-15 yrs
+Technical Architect- Dot Net Technology;Smart Utility Services Private Limited;Entity Framework, LINQ, Javascript, NUnit, MVC, WCF, C#, Angularjs, Html5...;Noida;7-12 yrs
+Recruitment Executive ( 0 - 5 Yrs.);POABS GROUP;Recruitment, Screening, Sourcing, Conducting Interviews, Life Cycle;Pathanamthitta;1-5 yrs
+Db-db Architecting-l5 Technical Architect;Mindtree Limited;Consulting, Windows, Unix, SQL, Monitoring, Linux, Cloud computing, MySQL...;Bengaluru;8-10 yrs
+Technical Solution Architect: Enterprise Architecture;IBM India Pvt. Limited;Presales, Service, Healthcare, Financial services, Consulting, Automotive...;Bengaluru;4-8 yrs
+Hiring Sr. Executive with 3 to 6 yrs of exp in RMG Function, Chennai;Maveric Systems Limited;Hiring, RFP, RFQ, Skill Matrix, RMG, Market Research, Process Documentation...;Chennai;3-6 yrs
+Warehouse Executive - Reliance Digital;Reliance Digital Ltd;Warehouse Operations, Budgeting, Dispatch;Bengaluru, Chennai;4-8 yrs
+Walk in Drive- BDO - Crisil Mumbai- 27th Feb 2017;CRISIL LIMITED;lead generation, business development, BDO, corporate sales, B2B sales...;Mumbai;0-5 yrs
+Front Office Executive cum Admin Executive;Skypaage Private Limited;Administration, HR Functions, Recruitment, Front Office, Front Desk...;Hyderabad;0-3 yrs
+Walk in Drive- BDO - Crisil Kolkata/ Durgapur- 25th Feb 2017;CRISIL LIMITED;lead generation, business development, BDO, corporate sales, B2B sales...;Kolkata, Durgapur;0-5 yrs
+Digital Marketing Executive;BigStep Technologies Pvt. Ltd.;SEO, Digital Marketing, Display Advertising, SEM, Online Marketing...;Gurgaon;1-3 yrs
+Operations Executive;AKQUASUN HOLIDAYS INDIA PVT LTD;Operations, ops, operations executive,  operations officer  ...;Dubai/ UAE;1-2 yrs
+Walk in Drive- BDO - Crisil Chennai- 25th Feb 2017;CRISIL LIMITED;lead generation, business development, BDO, corporate sales, B2B sales...;Chennai;0-5 yrs
+Sr. Executive - Admin & HR - Pune;Hitech Crane Industries;Recruitment, HR Administration, Exit Formalities, Leave, Selection...;Pune;4-8 yrs
+Executive / Sr. Exe - International Products and Operation.;Panoramic Universal Limited;operations, travel, FIT, GIT, international operation, outbound...;Mumbai, Noida;2-4 yrs
+Chief Security Officer;Inframat Alloys Pvt Ltd;Security, Intellectual Property, vigilance, personnel, security head...;Hosur;3-8 yrs
+Urgent Opening - Asst Manager / Sr. Executive -payroll;OPPO MOBILES MU PRIVATE LIMITED;TDS, Taxation, ESIC, PF, Tally, HR, Salary Preparation, Challan, Payroll;Mumbai;4-7 yrs
+Executive/senior Executive Legal;GAMESA RENEWABLE PRIVATE LIMITED;Contract Management, FIDIC, Litigation, Contracts, MOUS, Agreements, Law...;Chennai;3-6 yrs
+Customer Relationship Executive for Noida Location;Onicra Credit Information Company Ltd -;Client Coordination, Client Servicing, Customer Experience...;Noida;1-4 yrs
+Immediate Requirement for Accountant and Admin Executive(female);Ampaq Technologies;Accounting, Balance Sheet, Administration, Tally, VAT, Journal Entries...;Bengaluru;1-2 yrs
+EHS -engineer / Officer / Supervisor / Inspector;Larsen & Toubro Limited;EHS, substation, transmission line, underground cabling, NEBOSH;Saudi Arabia;5-8 yrs
+Sr. Executive Sales - Vijayawada (walkin Interviews on 26 Feb 2017);FIITJEE Ltd.;sales, Corporate Tie Ups, institutional tie ups, admissions, marketing...;Vijayawada;1-5 yrs
+CEO Export;Loha Investment Private Limited;Logistics Operations, Export Documentation, Export Import, Cha...;Mumbai;20-30 yrs
+Project Executive-ns Raghavan Cell for Entrepreneurship & Learning ;Indian Institute of Management Bangalore;MIS, Communication Skills, Interpersonal Skills, MS Office, Business Case...;Bengaluru;2-6 yrs
+Accounts Executive - Gurgaon (facility Management);CBRE South Asia Pvt Ltd;Accounting, Accounts Receivable, Vouchers, Invoicing, Loss, Billing...;Gurgaon;1-4 yrs
+HR Executive - Operations;Eclinicalworks India Pvt Ltd;HR Operations, Leave Management, Exit Process, Joining Formalities, HRIS...;Bengaluru;3-5 yrs
+Data Entry Executive/ Back Office Executive;Amity University;Excel, Data Analytics, Back Office, Data Entry, Business Intelligence, Data...;Kolkata;2-6 yrs
+Java Technical Architect;SureIT Solutions India Pvt. Ltd.;Javascript, Java, Bootstrap, Design Patterns, CSS, UML, Velocity, OOAD, MVC...;Hyderabad;11-21 yrs
+Facility Helpdesk Executive at Magarpatta-pune;Sodexo India Pvt. Ltd.ces;Word, Email, Phone, Facility Management, Mail, Customer Service, Management...;Pune;1-6 yrs
+Servicenow Architects;Abhracloud Softwares India Private Ltd;Problem Management, ITIL, Change Management, Incident Management...;Hyderabad;7-12 yrs
+Technical Architect - Product Development Company - Hyderabad;INNROAD SOFTWARE DEVELOPMENT SERVICES PVT. LTD.;CQRS, Azure, AWS, rabbitMQ, microservices, rest api, reactjs, angularjs...;Hyderabad;7-12 yrs
+Sr. Executive / Executive-sales & Admin (pharma);Naprod Life Science Pvt. Ltd.;Sales Order, Purchase Order, QA, Sales Administration, Sales Support, Order...;Mumbai;4-6 yrs
+Executive - Administration and Finance;La Mer Maritime (P) Ltd.;Administration Work, Travel Arrangements, Stationary, Petty Cash, MS Office...;Delhi NCR, Gurgaon;1-6 yrs
+Opening for Solution Architect/ Designer @ Tech Mahindra;Tech Mahindra Ltd.;ASP.Net MVC, C#, Javascript, WCF Services, MS SQL Server, JQuery, XML...;Pune;8-10 yrs
+Digital Marketing Manager/ Executive Urgent Hiring;kartik infratown pvt. ltd.;Marketing Management, Digital Marketing;Noida;2-6 yrs
+Opening for AEM/ CQ Solution Architect  @ Tech Mahindra;Tech Mahindra Ltd.;AEM/ CQ Solution Architect, AEM/ CQ, software architecture, AEM, Java stack...;Pune;8-10 yrs
+Data Architect;Smart Utility Services Private Limited;Data Modeling, Data Warehousing, Data Architecture, MS SQL, Big Data, ETL...;Noida;7-10 yrs
+.#singl.eview Technical Architects - Real-time Rating/charging;Tech Mahindra Ltd.;RFI, Presales, POC, RFP, Solution Architecture, Proposals, Consulting...;Pune;8-10 yrs
+Customer Care Executive Aundh Pune (male Candidates Only);Apollo Health and Lifestyle Limited;Customer Care, Hospital Management, Follow Ups, Customer Care Executive;Pune;0-3 yrs
+Data Architect;Larsen & Toubro Infotech Limited;Data Warehousing, Data Integration, Business Modeling, Data Architect, Data...;Bengaluru;6-8 yrs
+Area Sales Executive;Bayer CropScience Ltd.;Area Sales, Sales Executive Activities, Channel Partners, Primary;Vijayawada, Bengaluru Bangalore;2-6 yrs
+Sales Officer - Pharma Sales - UP;Mission Research Laboratories India Pvt Ltd;Area Sales Management, Sales Promotion, New Market Development...;Agra, Jhansi, Moradabad;3-8 yrs
+Walk-in for Marketing Executive on 25th February 2017 - Mumbai;Spider Software Pvt ltd;Marketing, Exhibitions, Product Placement, Seminars, New Business...;Mumbai Suburbs, Mumbai;0-2 yrs
+MIS Executive - Leisure Travel;Thomas Cook (India) Limited;Budgeting, Budget Preparation, Customer Service, MIS Reporting...;Mumbai;1-5 yrs
+Software Architect;Ez-XBRL Solutions, Inc.;Machine Learning, Natural Language Processing, Big Data, Analytics...;Navi Mumbai;6-10 yrs
+MSBI Architect;Larsen & Toubro Infotech Limited;Architectural Design, Technology Leadership, Application Development...;Pune, Mumbai;8-12 yrs
+Architect- Technical;Larsen & Toubro Infotech Limited;software development architecture, firmware, C development, embedded Linux,...;Mumbai;4-9 yrs
+Data Architect;Larsen & Toubro Infotech Limited;Data Architect, Mongo db, Cassandra, oracle, Hadoop, big data;Mumbai;6-11 yrs
+BPM Solution Architect;Larsen & Toubro Infotech Limited;Java, Spring Framework, NoSQL, MongoDB, Elastic Search, Rabbitmq, IntelliJ,...;Bengaluru;15-18 yrs
+Infra Architect;Mindtree Limited;windows , networking, linux, vmware, data center, cloud computing...;Bengaluru;9-11 yrs
+Demandware,   (technical Lead/  Architect/  Senior Architect);Mindtree Limited;estimation, development, modular, consulting , soa, mcahttp, it, demandware;Bengaluru;10-14 yrs
+Solutions Architect;JPMorgan Chase;service, project management, server, managed services , technical service...;Hyderabad;1-5 yrs
+Solutions Architect;JPMorgan Chase;service, project management, server, managed services , technical service...;Hyderabad;1-5 yrs
+Sr Architect;Microsoft India (R and D) Pvt Ltd;sql, development, microsoft, operation sconsulting , analytics...;Hyderabad;10-15 yrs
+Vice President/senior Manager - Data Architect - BFSI;Crescendo Global Services;Data Modeling, Data Architecture, Data Governance, Data Quality...;Mumbai;13-20 yrs
+ETL Architect with Presales;Larsen & Toubro Infotech Limited;Informatica, Datastage, SAS DI, Ab Initio, ETL, Java, Talend...;Chennai;8-13 yrs
+MSBI Architect with Presales;Larsen & Toubro Infotech Limited;MSBI Architect, Architect, Project Manager;Bengaluru;8-13 yrs
+Microstrategy Architect;Larsen & Toubro Infotech Limited;Data Warehousing, Data Modeling, DW, ERwin, Architectural Design...;Chennai, Pune;10-20 yrs
+Senior Executive - Quality Assurance - Chennai;Lifecell International Private Ltd(Asia Cryo-Cell);Quality Assurance, quality control;Chennai;3-6 yrs
+L&T Infotech Mumbai/banglore/chennai Invites Microstratergy Architech;Larsen & Toubro Infotech Limited;Microstratergy, Desktop, Dashboard, web, Architect;Mumbai, Chennai, Pune;7-12 yrs
+Walk-in Interview for Admin Executive at TATA Power Client of SWAN;SWAN Solutions & Services Pvt. Ltd.;Administration, Admin Executive, administration executive, admin officer...;Mumbai;1-3 yrs
+Urgent Openings for Software Architect;Abzooba India Infotech Private Limited;Deep Learning, Continuous Delivery, Scalability, Machine Learning...;Pune;3-5 yrs
+L&T Infotech Bangalore Invites Cognos Architect ;Larsen & Toubro Infotech Limited;cognos report studio, cognos Query Studio, cognos Framework Manager, cognos...;Bengaluru;7-10 yrs
+Senior Bigdata Architect;Larsen & Toubro Infotech Limited;Java, Hadoop, HBase, Spring, Tomcat, MongoDB, Linux, Operating Systems...;Mumbai;12-15 yrs
+Informatica - Sr. Developer/technical Lead/architect;Larsen & Toubro Infotech Limited;SQL Tuning, Unix, High Level Design, Web Services, Informatica, ETL...;Bengaluru, Chennai;4-9 yrs
+Executive Human Resource (male Candidates Only);Survival Technologies Private Limited;HR Policies, Recruitment, Exit Process, Employee Relations, Exit Interviews...;Mumbai;4-6 yrs
+Walk Ins - Data Entry Operator / Login Executive - PUNE;Bureau Veritas Consumer Products Services (India)  Pvt. Ltd.;Data Entry Operation;Pune;1-2 yrs
+Urgent Opening for MIS Executive for Noida Location ;Melstar Information Technologies Ltd;VLOOKUP, Conditional Formatting, HLOOKUP, Excel, Data Validation...;Noida;3-5 yrs
+Sr MIS Executive : NH Health City, Bengaluru;Narayana Hrudayalaya Ltd;MS Office, Pivot table, Data Analysis;Bengaluru;4-9 yrs
+Executive;KPMG;SQL Server, Predictive Analytics, Oracle, Data Analytics...;Mumbai;2-4 yrs
+Trainee Executive - MIS;ONE UP TRADE PRIVATE LIMITED;Variance Analysis, Excel, MIS Reporting, Profitability Analysis...;Delhi;1-2 yrs
+Walkin Drive For MIS Executive - 6th & 7th February 2017;Auth Bridge Research Services Pvt. Ltd.;Excel, Concatenate, Lookup, Formulas, HLOOKUP, Pivot Table, MIS, MS Access,...;Gurgaon;0-2 yrs
+Opening for MIS Executive - Night Shift for Airoli Location;Gebbs Healthcare Solutions Pvt. Ltd.;MIS Reporting, Night Shift, MS Office, Interpersonal Skills...;Navi Mumbai, Mumbai;1-5 yrs
+MIS Executive;Emami Limited;Advanced Excel, Powerpoint, MIS Preparation, Data Analysis, Reporting, mis,...;Kolkata;3-6 yrs
+Executive- Scm;Next Education India Pvt. Ltd.;Procurement, Purchase, Logistics, Strategic Sourcing, Warehouse...;Kochi;1-3 yrs
+Account Executive - Female Only;Global Power Source (India) Pvt. Ltd.;TDS, VAT Return, Petty Cash, Tally, Data Entry, accountant, accounting...;Bengaluru;2-3 yrs
+Vacancy for the role of MIS Executive;ANI Technologies Pvt Ltd (Olacabs);MIS, MIS Executive, MIS Analyst, mis coordinator, data analyst...;Mumbai;1-3 yrs
+Walkin Drive of Genpact for MIS Executive @ Sec 135 Noida - 9th Feb;GENPACT INDIA;Master data management, MS office, excel, ms excel, mis, ms access...;Noida;2-3 yrs
+MIS Jr. Officer;Firestar Diamond International Private Limited;Excel, MIS, Data Entry;Surat;1-2 yrs
+Accounts Executive (male) - Premier Institute;SAB Corporation Ltd.;Accounting, Taxation, Tally, Accounts, Finance, Data Entry;Delhi, Delhi NCR, Faridabad;0-2 yrs
+Accounts Executive;RATTAN ORGANIC FOODS PVT LTD;Accounting, Tax Returns, VAT, Taxation, Invoicing, MS Office...;Delhi;2-4 yrs
+Data Research Assoc -  Truven Health Analytics;IBM India Pvt. Limited;healthcare, consulting , life sciences, clinical research, analytics...;Hyderabad;2-7 yrs
+MIS Executive;Sulekha.com New Media Private Limited;Excel, MS Office, Typing Speed, data entry speed;Pune;1-2 yrs
+Senior Business Analyst -  Truven Health Analytics;IBM India Pvt. Limited;operation s, analytics, healthcare, product development, consulting ...;Hyderabad;2-7 yrs
+MIS Executive - Female Candidate Only;Vadilal Industries Ltd.;Formulas, Excel, Pivot Table, VLOOKUP, MIS, Distribution, SAP...;Ahmedabad;2-6 yrs
+Regulatory Writer;Cactus Communications Pvt. Ltd.;Clinical Research, Medical Writing, Regulatory writer, Regulatory;Mumbai, Mumbai Suburbs;3-8 yrs
+Accounts Executive;Kool-ex Cold Chain Limited;Accounting, Accounts Executive, On Line ERP, Petty Cash Handling...;Bengaluru, Nagpur, Thane;3-8 yrs
+Medical Editor: Inviting Freshers;Cactus Communications;Medical, Pharma, life science, medicine, Clinical Research, editing...;Mumbai, Mumbai Suburbs, Navi Mumbai;0-0 yrs
+MIS Executive;Kool-ex Cold Chain Limited;Logistics, MIS, Data Monitoring, GPS Monitoring, Tracking, Transport...;Ambala, Hyderabad, Thane;3-8 yrs
+MIS Executive;HCL Infosystems Ltd.;CRM, Data Analysis, Excel, MIS Reporting, MIS;Noida;5-10 yrs
+Analytics & Customer Life Cycle Management Manager;Ujjivan Financial Services Ltd.;Strategic Marketing, Strategy, Corporate Marketing, Data Science...;Bengaluru;3-5 yrs
+Urgent Opening for Toxicologist, Night Shift, Gurgaon;Sovereign Health India Pvt Ltd;toxicology, pharmacy;Gurgaon;2-5 yrs
+BI & Big Data Expert;SDNA;business intelligence, data warehousing, dw, BI, scala, hadoop, aws...;Noida, Delhi NCR;3-8 yrs
+JP Morgan - Platform Developer - Global Markets Group;JPMorgan Services India Pvt. Ltd;Machine Learning,  Python,  Software Engineering,  Java,  programming...;Mumbai;2-5 yrs
+Junior/ Senior Bioinformatician;MEDGENOME- Startup;Bioinformatician, Perl, PHP, Python, R, Java, Html, SQL, C++...;Bengaluru;3-5 yrs
+Principal Engineer- Data Science & Machine Learning;Zebi - Startup;NoSQL, Java, Python, Spark, Data Science, Cassandra, Machine Learning...;Andhra Pradesh;3-5 yrs
+Content Writer (technical);Busigence Technologies - Startup;Technical content developer, Content writing, Content Writer...;Delhi;1-4 yrs
+Data Architect_pune Hinjewadi;Globant India Private Limited;Hadoop, Hive, Sqoop, Spark, Pig, HBase, NoSQL, Cassandra, Data Science, Big...;Pune;6-11 yrs
+Machine Learning Engineer;Premium-Jobs;data scientist,  ML,  SCALA,  R,  BIG DATA,  CLOUD,  Machine Learning...;Chennai;2-5 yrs
+Machine Learning Jobs in Microsoft-computational Advertising Group;Microsoft India (R and D) Pvt Ltd;machine learning, text mining, data mining, information retrieval, NLP...;Bengaluru;7-12 yrs
+Sr. Program Manager;Microsoft India (R and D) Pvt Ltd;SQL, PHP, Perl, Python, SAS, Business intelligence, microsoft, Algorithms...;Hyderabad;8-10 yrs
+Metrology Expert Position with Applied Materials;Applied Materials India Private Limited;Material Science, Liquid Particle Counter, LPC...;Mumbai;3-8 yrs
+Data Scientist - Hadoop/mapreduce;OKDA Solutions;SAS, Predictive Modeling, Statistical Modeling, Analytics, Data Analysis...;Vijayawada;5-8 yrs
+Manager / Sr. Manager-data Scientist ll 10+ Years ll Chennai/bangalore;Quadrangle Search;Data Mining, Statistical Analysis, Predictive Modelling, Data Scientist...;Chennai, Bengaluru Bangalore;10-18 yrs
+Data Scientist for Behavior Insights (tokyo, Japan) Jo-1702-073;Job Port Japan;Natural Language Processing, Machine Learning, Banking...;Tokyo, Japan;5-10 yrs
+Lead Data Scientist - Machine Learning/r/python;Husys;Lead Data Scientist, Machine Learning, Python, Data Analytics...;Bengaluru;8-13 yrs
+Opening of Data Scientist for Bangalore / Singapore;Vipany Management Consulting Pvt Ltd.;Machine Learning, Pattern Recognition, Data Science, Algorithms...;Bengaluru, Singapore;1-5 yrs
+Tally Data Operator- Executive;AK Placement Services;Data Entry, Tally Operator;Mumbai;2-3 yrs
+Data Entry Executive for Online Promotion part time Call-8376068742;Assurance Online Services;data, data entry operator, data processor, part time, data entry operation,...;Delhi NCR, Noida, Ghaziabad;0-1 yrs
+Data Scientist;Startup - Pharmarack;Data Integrity, Test Design, Third Party, Requirements Management...;Pune;4-5 yrs
+Data Scientist (R & Python), ML, Data Mining, Text Analytics;Gavs Technologies Private Limited;Text Analytics, R, Data Mining, Python, data Mining., Statistics;Chennai;2-6 yrs
+Data Scientist - Python/nosql/mysql - Startup;Greedy Game;Machine Learning, Python, NoSQL, Data Analysis, Data Mining, Algorithms...;Bengaluru;2-4 yrs
+Data Scientist;Ecolibrium Energy;R, Predictive Analytics, Statistical Modeling, Predictive Modeling...;Ahmedabad, Gujarat;6-11 yrs
+CTO;Startup jobs-Onward Health;Data Science, Software Engineering, Computer Science, Strategic Thinking...;Hyderabad;3-4 yrs
+Mega Walk-in for MIS Executive/sr Executive with Tech Mahindra;Tech Mahindra Ltd.;Excel, Operations, MS Office, Back Office, MS Access, Data Analysis...;Pune;2-6 yrs
+Senior Data Scientist @ ZS Associates;ZS Associates {India} Pvt Ltd;data scientist, data science, machine learning, information retrieval...;Pune, Gurgaon;4-9 yrs
+Senior Process Manager - Advance Analytics;American Express India;Data Analytics, data mining, data modeling, machine learning...;Delhi NCR;4-8 yrs
+Robotic Process Automation (pra) Technical Automation Architect;Nokia Solutions and Networks India (P)Ltd.;J2Ee, Windows, LDAP, Service, Adobe, Auditing, Computer science, Tools...;Noida;2-5 yrs
+Senior Software Engineer;Microsoft India (R and D) Pvt Ltd;microsoft, Algorithms, Data analysis, Computer science, Machine learning...;Hyderabad;1-5 yrs
+Analytics;Skyhigh Networks Technologies Pvt Ltd;Python, Java, SAS, Analytics, Hadoop, big data, cloud, security, Networking;Bengaluru;10-16 yrs
+Python Developer - Data Analytics Startup;tiktik;D3.Js, Html5, GIT, Server Side, Pattern Recognition, data science...;Hyderabad, Bengaluru;2-5 yrs
+Data Scientist (statistical Modeler);CitiusTech Healthcare Technology Pvt Ltd.;Data Scientist, Statistical Modeler, statistical analysis, Data Analysis...;Mumbai;4-9 yrs
+Consultant - Advance Analytics;InfoCepts Technologies Pvt. Ltd.;SAS, Statistical Modeling, Machine Learning, data sciences, analytics...;Nagpur;4-8 yrs
+Hadoop System Admin;Morningstar India (P) Ltd.;Spark, Hdfs, Linux Administration, Ansible, Big Data, Shell Scripting, YARN...;Navi Mumbai;1-4 yrs
+Urgent Hiring - IT Sr. Recruiter;Nowfloats Technologies Pvt Ltd;Recruitment, Project Management, Stakeholder Management, Node.Js, HR...;Hyderabad;4-7 yrs
+Senior Frontend Developer;Elucidata Consulting Pvt Ltd;Bootstrap, Biotechnology, CSS, Javascript, MVC, Life Sciences...;Delhi;4-9 yrs
+Lead Data Science Engineer - R/ Python;SlicePay - Startup;Data Science, Product Development, Risk Assessment, Data Science Engineer...;Bengaluru;2-4 yrs
+Programer Analyst/ Consultant/ Software Engineer/ Developer/;NexAge Technologies USA Inc;Big Data, Hadoop, Spark, Spark Streaming, Spark SQL, Scala, Kafka...;United States (U.S);5-10 yrs
+AI & Machine Learning & NLP Expert;SDNA;NLP, Machine Learning, Mathematics, Computer Science, Software Engineering,...;Bengaluru, Hyderabad;3-8 yrs
+Developer-java/python/.net/c++;Magical Imagination Portugal SA;Java, Node.Js, Python, Html5, SQL, IT Software - E - Commerce...;Bengaluru;2-7 yrs
+Opportunity with Flex - Pune for Executive Program Management;Flextronics Technologies(I) Pvt Ltd;Project Management, PMP, Program Management, Project Coordination...;Pune;2-5 yrs
+Lead Scientist;Syngene  International Limited.;Microbiology, Biochemistry, Method Development, Large molecule...;Bengaluru;10-20 yrs
+Business Support Executive, Indore;Cyber Infrastructure (P) Limited;call centre, bpo, customer service, virtual assistant, ITES, CCE, CCA...;Indore;0-2 yrs
+Senior Data Scientist;DirecTech Labs;R, Machine Learning, Data Science, Python, Predictive Analytics, SQL...;Delhi NCR;13-20 yrs
+Demand Generation Executive, Indore;Cyber Infrastructure (P) Limited;Cold Calling, Demand Generation, market research, lead generation...;Indore;1-3 yrs
+Senior Data Scientist;DirecTech Labs;R, Machine Learning, Data Science, Python, Predictive Analytics, SQL...;Delhi NCR;8-13 yrs
+Genetic Technologist;ATS Genetech Pvt. Ltd.;Genetics, Cytogenetics, Tissue culture, Biochemistry, Molecular Genetics...;Hyderabad;0-1 yrs
+Principal Data Scientist;DirecTech Labs;R, Machine Learning, Data Science, Python, Predictive Analytics, SQL...;Delhi NCR, Noida;8-13 yrs
+Reporting MIS Executive;NGA HR India Pvt Ltd;MIS Reporting, Monthly Reports, Data Integrity, Strong Analytical Skills;Hyderabad;1-3 yrs
+Sr Executive/ Executive - Content Operations;Info Edge India Ltd.;Education Industry;Noida;0-3 yrs
+Executive;CMA CGM Shared Service Centre (India) Pvt. Ltd;fresher, backoffice, backend, non - voice, data entry...;Mumbai;0-2 yrs
+Computer Scientist - Data Science;PacsysHire India;Algorithms, Android, IOS, Machine Learning, Linux, Data Structures...;Bengaluru;1-4 yrs
+Senior Data Scientist;Time Analytic & Shared Services Private Limited;Machine Learning, Text Mining, Hadoop, R, Hive, Python, Data Science, SQL...;Bengaluru;2-5 yrs
+Senior Data Science Software Engineer (VP / Team Lead) - Taxi Startup;Global Recruiters;MongoDB, software engineer, Big Data, SQL server, Spark, Java...;Bengaluru, Mumbai, Chennai, Pune, Hyderabad, Delhi NCR;6-11 yrs
+Software Designer - JAVA;CONFIDENTIAL;Javascript, Java, Framework, Scripting, Linux, Agile, Webservices;Gurgaon;4-9 yrs
+Clinical Data Manager;Quess Corp Ltd.;Inform, Rave, Clinical Data Management, OC, Team Leading, Life Sciences;Mumbai, Kolkata;2-6 yrs
+Machine Learning Engineer/data Scientist - R/python;Phenom People Pvt Ltd;NLP, Machine Learning, Python, R, Data Science, Algorithms...;Hyderabad;2-6 yrs
+Data Scientist;Sagacito HR;Hadoop, Hive, Spark, Pig, HBase, R, Natural Language Processing...;Delhi;3-6 yrs
+Senior Development Engineer - Video Analytics;CONFIDENTIAL;C, C++, Machine Learning, Programming, Python, Image Processing...;Bengaluru;5-8 yrs
+Product & Process Development Executive| Full-time;Loparex India Pvt. Ltd.;R&D, Silicone Chemistry, scale up;Dadra and Nagar Haveli;4-7 yrs
+Sr. Research Associate/scientist - Imaging;E I DuPont India Private Limited;research associate, analytical, prototype, software development, python...;Hyderabad;6-11 yrs
+Data Scientist - Kpo/it/consulting;BuzzHire;Data Scientist, Big Data, Machine Learning, Data Management, Python, C++...;India;5-10 yrs
+Machine Learning Engineer/ Data Scientist - R/ Python;Phenom People Pvt Ltd;Machine Learning, Data Scientist, Python, Java, C / C++, Ruby, R...;Hyderabad;2-6 yrs
+Associate Scientist-protein Analytical Area/bioassay Development;Syngene  International Limited.;protein analytical, bioassay development, cell bank characterization.;Bengaluru;3-7 yrs
+Scientist - Operations Research - R/ Python;Husys;Operations Research, Python, Hadoop, MapReduce, Hive, HBase, Mongo DB...;Bengaluru;9-14 yrs
+Manager / Senior Manager - Data Scientist - IT;Neerinfo Solutions;Machine Learning, Natural Language Processing, Predictive Analytics...;Bengaluru, Chennai;10-13 yrs
+Data Scientist - Sas/sql/spss;Talpro;SAS SQL, SPSS, C, Excel Powerpoint, Statistical Analysis, Econometrics...;Delhi NCR, Bengaluru;8-12 yrs
+Data Scientist - Sas/sql/spss;TalPro;SAS SQL, SPSS, C, Statistical Analysis, Econometrics, Statistics...;Delhi NCR, Bengaluru;8-12 yrs
+Data Scientist - SAS / SQL / SPSS;TalPro;SAS SQL, SPSS, Excel Powerpoint, Statistical Analysis, Econometrics...;Bengaluru, Delhi NCR;8-12 yrs
+Data Scientist - Hadoop/ Mapreduce;OKDA Solutions;SAS, Predictive Modeling, Statistical Modeling, Analytics, Data Analysis...;Vijayawada;5-8 yrs
+Data Scientist;Upgrade HR Consulting Pvt Ltd;Java, Spark, C, Python, Machine Learning, SCALA, R, Data Mining...;Bengaluru Bangalore;10-15 yrs
+Data Scientists - 6 to 9 Month Extendable Project;RESOURCES GLOBAL PROFESSIONALS INDIA PVT. LTD.;SQL, R, Tableau, Statistics, Data Analytics, Time Series, Python, Cplex...;Bengaluru;5-8 yrs
+DATA Scientist- data Visualization;Intelli Search Services P. Ltd.;Data Modeling, Machine Learning, data scientist, data analytics...;Bengaluru;6-11 yrs
+Chief/senior Data Scientist;gNxt Systems;Senior Data Scientist, Data Scientist, Predictive analytics, Big Data, Data...;Delhi NCR, Noida;10-18 yrs
+Senior Manager Research Scientist - Machine Learning;Career Maker;C++, Clojure, Python, Algorithms, Java, Machine Learning, Cplex, Ruby...;Bengaluru;12-18 yrs
+Applied Scientist-3-6 Yrs-bangalore;WENGER  and WATSON INC.;Computer Vision, C++, MATLAB, Data Structures, Machine Learning...;Bengaluru;3-6 yrs
+Research Scientist Trainee / Officer / Jr Executive for R&D Centre;SMS Pharmaceuticals Ltd;Research, Literature, Process Development, Tech Transfer...;Hyderabad;0-5 yrs
+Data Entry Executive;Fishbowl;MS Office, Typing Speed, Data Entry, US Shift, international shift;Noida;2-4 yrs
+Data Entry Executive;Aqusag Technologies India;Data Entry Operation, computer operator operation, ms office, Data Analyst,...;Noida;0-1 yrs
+Immediate Opening for Executive - Data Entry;Sasvat Omnicare Pvt. Ltd.;Typing, Data Entry, Spreadsheets;Bengaluru;0-1 yrs
+SAP Job  Data Entry | Accounts Executive | AR / AP Prcoess - Graduate;SLA Consultants India;MIS Executive,  mis coordinator,  Data analyst,  research analyst...;Delhi NCR, Gurgaon, Noida;3-8 yrs
+Data Entry Executive for Online Promotion part time Call-8376068742;Assurance Online Services;data, data entry operator, data processor, part time, data entry operation,...;Delhi NCR, Noida, Ghaziabad;0-1 yrs
+Immediate Opening - Sr. Data Scientist - Callhealth - Hyderabad;Call Health Services Pvt. Ltd.;R, python, Javascript, machine learning, NLP;Hyderabad;7-8 yrs
+Data Scientist - AIML @ Top IT MNC;High Q Solutions Limited;NLP, Text Mining, Machine Learning, Java, Artificial Intelligence, Python...;Bengaluru;2-3 yrs
+DATA Scientist || Maersk GSC || Chennai Kandanchawadi;Maersk Global Service Centres Pvt. Ltd.;Machine Learning, R, Predictive Modeling...;Chennai;10-15 yrs
+Consultant - Data Scientist;CERNER HEALTHCARE SOLUTIONS PVT LTD;Consultant - Data Scientist, Data Scientist, word processing, analysis;Bengaluru;5-10 yrs
+Data Scientist;Stayzilla - Startup;Information Retrieval, Hadoop, Hive, Spark, Mapreduce, SCALA...;Bengaluru;2-7 yrs
+Scientist - AR&D OSD - Ipdo, Bachupally;Dr. Reddys Laboratories Ltd.;analytical development, method development, HPLC, tablet, capsule ...;Hyderabad;3-8 yrs
+Admin Officer / MIS Executive;Vadilal Industries Ltd.;admin executive, Advanced Excel, VLOOKUP, SAP, MIS Reporting...;Ahmedabad;3-5 yrs
+AR Executives / AR Analysts ( US Healthcare RCM ) : Walk In Interviews;Porteck India Infoservices Pvt. Ltd.;RCM, US Healthcare, medical billing, ar caller, ar analyst...;Noida, Delhi NCR;1-4 yrs
+QA Officer and Executive (0-6 Yrs);Baroque Pharmaceuticals Pvt Ltd;Change Control, QA, Market Complaints, Process Validation, Sop Preparation,...;Anand;1-6 yrs
+Information Security Officer;Amadeus Software Labs India Pvt Ltd;Project management, Information security, MSC, ISO, Recruitment, Auditing...;Bengaluru;5-8 yrs
+ADL Officer and Executive (0-6 Yrs);Baroque Therapeutics Pvt Ltd;QC, Adl, Analytical Method Validation, Regulatory Affairs...;Anand;1-6 yrs
+Chief Data Scientist;DirecTech Labs;Predictive Analytics, Data Analytics, Machine Learning, Data Scientist...;Delhi NCR;8-13 yrs
+ADL Officer and Executive;APOTHECON PHARMACEUTICALS PVT. LTD.;QC, Adl, Analytical Method Validation, Regulatory Affairs...;Vadodara;1-2 yrs
+Senior Data Scientist;DirecTech Labs;Predictive Analytics, Data Analytics, Machine Learning, Data Scientist...;Delhi NCR;8-13 yrs
+Research Executive-health Care,uk Mnc,chemicals,navi Mumbai.;TeamLease Services Limited;Creative Solutions, New Projects, Process Optimization;Mumbai;1-6 yrs
+SR. Scientist - B;Philips Software Centre Pvt. Ltd.;java, html, jms, verification, workflow, co, system architecture...;Bengaluru;3-5 yrs
+Accounts Executive / Accountant / Data Entry;SPRAT - Society for Promoting Rationality;Accounting, Busy, Book Keeping, Tally, Data Entry Operation, HR, Dispatch...;Ahmedabad;1-3 yrs
+Data Scientist/analytics;gNxt Systems;Data Scientist, Analytics, Python, SQL, Data Management, Statistics...;Noida;6-10 yrs
+Data Scientist - R/scala/matlab;Premium-Jobs;Java, Javascript, Pig, JQuery, Python, C++, Algorithms, Machine Learning...;Delhi NCR, Noida;2-7 yrs
+Data Scientist - C++/ Java - IIT;Empowered Access;Algorithms, Java, C++, Programming, Foreign Exchange, Strategy Making, Data...;Delhi NCR;0-5 yrs
+Data Scientist - R/python/machine Learning;JobServer Consultancy Services;Machine Learning, Python, Algorithms, Hadoop, Data Analysis...;Pune;1-5 yrs
+Data Scientist / Head - Machine Learning;Flex-i Partners;Machine Learning, ML, Data scientist, applied scientist, scientist;Pune;12-15 yrs
+Data Scientist - Sas/sql/spss;Talpro;SAS SQL, SPSS, C, Statistical Analysis, Statistics, Analytics, Front End;Delhi NCR, Bengaluru;8-12 yrs
+Reliance 4G Process For Customer Care Executive(cce)  - 7042777563;ZAA Services;International Voice Process, US Shift, Domestic BPO, Customer Care...;Delhi NCR, Gurgaon, Noida;0-1 yrs
+Machine Learning Scientist;Amazon India Software Dev Centre Pvt Ltd;python, algorithms, analytics, validation, machine learning, email...;Bengaluru;2-5 yrs
+Data Scientist;DOTS CONNECT;data scientist, analytics;Mumbai;3-8 yrs
+Data Scientist - Optimization Techniques & Analytics - Consumer Indust;Pinnacle Search Services;Data Scientist, Analytics, Business Intelligence, Data Management;Mumbai;4-7 yrs
+Technical Architect;Deal4Loans - Startup;Big Data, Enterprise Architect, Use Cases, Database Design...;Noida;3-5 yrs
+Executive/senior Executive Payroll Management;IDMC Ltd.;HR, Payroll Administration, Time Office Management, Taxation...;Anand;5-7 yrs
+Recruitment Executive;CONVERGYS India Services Pvt Ltd;Recruitment, Sourcing, Screening, HR Recruiter, HR, Sourcer...;Delhi;0-3 yrs
+Sales Executive;Outline Overseas;Marketing, Negotiation Skills, Data Collection, sales, business development...;Delhi NCR;0-3 yrs
+MIS Executive;Zee Learn Limited;MIS Executive, MIS Reporting, MIS, Purchase Requests;Mumbai, Mumbai Suburbs;2-7 yrs
+NTT DATA Hiring for Executive in Cash Applications;NTT Global  Delivery Services Private Limited;Order To Cash, OTC, Cash Applications;Gurgaon;1-2 yrs
+Interview call Letter-developer/architect-techmahindra-pune;Tech Mahindra Ltd.;Spring Batch, Core Java, Wicket, Hibernate, Struts, J2Ee, JMS, JUnit, Maven...;Pune;5-10 yrs
+Office Executive;SUN MICRO INVIT PVT. LTD;Office assistance, office executive, Back - Office Processing, office admin...;Delhi;1-3 yrs
+Opening for Back Office Executive - Bhopal;SBICAP Securities Limited;Demat, Shares, Mutual Funds, Back Office, Data Entry;Bhopal;1-6 yrs
+Walk in Drive- BDO - Crisil Chandigarh- 23rd Feb 2017;CRISIL LIMITED;lead generation, business development, BDO, corporate sales, B2B sales...;Chandigarh;0-5 yrs
+Tagging and Content Executive;A.M. Marketplaces Private Limited;E - commerce, Content, Catalouging, tagging;Gurgaon;0-4 yrs
+Marketing Executive - Thane Location;Sterling Holiday Resorts Limited;lead generation, Marketing brand management, brand marketing...;Mumbai;1-6 yrs
+Business Development Executive / Advertising Sales;Vasundhra Media Pvt. Ltd.;Ad Sales, Space Selling, Cold Calling, Advertising, Media Sales...;Delhi NCR, Pune;0-4 yrs
+Redshift Architect;Smartedge Solutions Ltd.;Hive, SQL, Data Architecture, Data Warehousing, Big Data...;Hyderabad;10-20 yrs
+Job Opening for Research Executive with CMM 4 Company;Indusa Infotech Services Pvt Ltd;Secondary Research, Business Research, Excel, Web Technologies, Data Entry,...;Ahmedabad;0-2 yrs
+Accounts Executive(male Candidates Only);E-CON Packaging Private Limited;Accounting, TDS, VAT Audit, Sales Tax, Bank Reconciliation, Sales Invoice...;Mumbai;3-8 yrs
+Telemarketing Executive - Pune Location;Sterling Holiday Resorts Limited;&quot ; telemarketing trainee&quot ; , telecaller, telemarketing executive,...;Pune;0-5 yrs
+Executive / Senior Executive - HR;Coffee Day Global Ltd.;Exit Interviews, Employee Engagement, Orientation, Induction;Chandigarh;2-4 yrs
+Oracle Configurator Architect;Infogain India (P) Ltd.;Oracle PL, Java, Database, PLSQL, Technical Design, Test Scripts...;Noida, Delhi NCR;9-14 yrs
+Senior Executive - HR Operations;Home Credit India Finance Private Limited;HR Operations, Separation, Excel, New Business, Typing Speed;Gurgaon;3-6 yrs
+Tele Marketing / Customer Care Executive;Aries HR Solutions.;Telemarketing, Customer Care;Hyderabad;0-4 yrs
+Immediate Opening - Executive / Sr. Executive- Mdsales - Matrimony.com;Bharat Matrimony;Space Selling, B2B, Direct Sales, Online Sales, B2C Sales, Online Marketing...;Bengaluru;1-6 yrs
+Technical Architect/ Lead- Java/j2ee//struts/hibernate/spring/ejb;Flatrions solutions India Pvt Ltd;Java, Spring, Struts, Hibernate, J2Ee, EJB, JSP, Tomcat, Javascript, JEE;Chennai;8-13 yrs
+Senior Architect- Big Data and Analytics;AlgoSquare Data Science Pvt Limited;Advanced Analytics, Big Data Analytics, R, machine learning, Java...;Bengaluru;7-12 yrs
+Customer Service Executive;Chola Insurance;Customer Service, customer service executive, cse, data entry, back office,...;Mumbai, Mumbai Suburbs, Navi Mumbai;0-2 yrs
+Territory Sales Executive - Hyderabad;American Express India;area sales executive, merchant acquisition, direct sales, ASE...;Hyderabad;1-4 yrs
+Cloud Security Architect;Bitwise Solutions Pvt Ltd;PAAS, Cloud Security, Iaas, SAAS, Identity Access Management...;Pune;5-8 yrs
+Payroll Executive - Accenture- Urgent  Opening;Accenture Solutions Pvt Ltd;Orientation, Excel Powerpoint, MIS Reporting, Payroll, MIS Preparation...;Chennai, Gurgaon;0-2 yrs
+RPA Developer/lead/architect;InvenCubator Pvt. Ltd.;Blue Prism, RPA, Robotics process automation, Automation Anywhere;Jaipur;2-4 yrs
+Receptionist/front Desk Excecutive (female);ADWORTH MEDIA PVT LTD;receptionist, front office executive, front office assistant, data entry...;Delhi;1-4 yrs
+Senior Account Executive Job;SAP India Pvt.Ltd;ERP, Software Sales, CRM, SAP, Cloud, Technology, Sales;Gurgaon;12-15 yrs
+HR Executive;KPISOFT TECHNOLOGIES PRIVATE LIMITED;IT Recruitment, HR, Talent Acquisition, Employee Relations, Compensation...;Bengaluru;3-5 yrs
+Java Solution Architect;Oracle India Pvt. Ltd.;Solution Architect, java architect, soa architect, presales...;Bengaluru, Mumbai, Pune;8-13 yrs
+Business Development Executive | Edge Academy | Thane | 8691004391;EDGE Academy;Business Development, sales, academic sales, Corporate Sales, institutional...;Thane, Mumbai, Mumbai Suburbs;1-5 yrs
+Data Scientist;DirecTech Labs;Machine Learning, Predictive Analytics, Algorithm Development...;Delhi NCR, Noida;4-9 yrs
+MIS Executive;Panamax Infotech Limited;Advanced Excel, Macros, SQL, MIS, MS Access;Ahmedabad;2-6 yrs
+Chief Data Scientist;DirecTech Labs;SQL, Machine Learning, Predictive Analytics, Algorithm Development...;Delhi NCR;13-20 yrs
+Location Control Officer - Bengaluru;JPMorgan Chase;operations, financial services, mba, sme, risk management, analytics, audit...;Bengaluru;10-12 yrs
+Chief Data Scientist;DirecTech Labs;SQL, Machine Learning, Predictive Analytics, Algorithm Development...;Delhi NCR;8-13 yrs
+Data Scientist - Optimization Techniques & Analytics - Financial Servi;Pinnacle Search Services;Financial Services, Data Analyst, Data Scientist, Analyst, R, Analytics;Mumbai;6-8 yrs
+Vacancies for HR, Promotors, BDE in UTC PVT. LTD Com. ;United Capital Club;Social Networking, digital marketing, online marketing, offline marketing...;Hyderabad, Delhi, Ahmedabad;0-5 yrs
+Salesforce Architect;Simpplr Software India Pvt Ltd;Apex, Force.com, Salesforce, Rest, Software Development, SOAP...;Gurgaon;7-12 yrs
+iOS Lead/architect;Simpplr Software India Private Limited;IPad, XML, JSON, Android, IOS, IPhone, Web Services, MVC, SQLite...;Gurgaon;7-12 yrs
+Tele Executives / Callers;The Institute Of Chartered Financial Analysis Of  India University Sikkim;Student Counselling, telesales, telecalling, sales promotion;Mumbai, Thane;1-3 yrs
+Solution Architect;NetCracker Technology Solutions (India) Pvt Ltd;Primary Skills, CRM, OSS, BSS, J2SE J2EE, Oracle DB, Solution Architect;Bengaluru;10-13 yrs
+Front Desk Cum Admin Executive (female);Mittal Processors Private Limited;HR Administration, Front Desk, Administration Work, Data Entry...;Delhi;2-5 yrs
+QA Executives;Uberall Solutions (I) Ltd.;Quality Assurance / Testing, QA, QC, Manual Testing, Software Testing...;Pune;2-3 yrs
+Executive - MIS;3i Infotech Limited;HR Operations, HR MIS, HRD, Headcount, HRMS, Incentives, HR Analytics;Mumbai;1-3 yrs
+Chief Technical Officer - Python/webservices;Confidential;Javascript, Redis, Maven, Spring Framework, Web Services, GIT, Docker...;Bengaluru;3-8 yrs
+Data Scientist | Fast Growing Edutech Startup | Bangalore;Unnati;Operations Manager, Program Operations, Big Data Analytics...;Bengaluru Bangalore;2-5 yrs
+Chief Data Scientist;DirecTech Labs;Data Scientist, SQL, Python, RedShift, Hadoop, Predictive Analytics...;Delhi NCR;10-20 yrs
+Senior Data Scientist;DirecTech Labs;Data Scientist, SQL, Python, R, Machine Learning, Predictive Analytics...;Delhi NCR, Noida;11-16 yrs
+Senior Data Scientist;DirecTech Labs;Data Scientist, SQL, Python, R, Machine Learning, Predictive Analytics...;Delhi NCR, Noida;6-11 yrs
+Senior Principal Scientist;Syngene  International Limited.;large molecule research, Immunology, Biosimilars, molecular biology;Bengaluru;10-16 yrs
+Manager Analytics - Data Scientist;Optum, a UnitedHealth Group Company;Manager Analytics - Data Scientist, Logistic Regression...;Bengaluru;6-9 yrs
+H1B Filing for 2017 - Hadoop Data Engineers / Data Scientist;PMR Softtech Pvt. Ltd (Innovative Infotech );Java, Spark, SCALA, Hadoop, Python, Machine Learning, Big Data, Open Source...;United States (U.S);5-10 yrs
+Development Architect- ABAP Job;SAP India Pvt.Ltd;Architecture, Developer, ABAP, ERP, SAP, Engineering, Technology;Bengaluru;10-13 yrs
+Research Scientist for API R&D;Cipla Ltd;Research, scientist, organic chemistry, synthesis;Bengaluru;3-8 yrs
+Urgent Vacancy for Pmo(project Management Officer) for Thane Location;TeamLease Services Ltd.;Project Management, PMO, Accounts, Data analysis, Presentation;Mumbai, Mumbai Suburbs, Navi Mumbai;1-5 yrs
+MIS Executive;Vimta Labs Limited;VLOOKUP, HLOOKUP, Excel, Powerpoint, MIS, Tables, Big Data;Hyderabad;1-3 yrs
+Chief Technical Officer - Project Management & Development - Python;Premium-Jobs;Agile, Project Management, Data Center, Development Testing...;Bengaluru;3-8 yrs
+Trainee MIS Executive - US Support;ObjectWin Technology India Pvt. Ltd.;MIS, Advanced excel, vlookup, hlookup, pivot table, formulaes, night shift,...;Bengaluru;0-1 yrs
+MIS Executive;Ingram Micro (I) Pvt Ltd;Excel, Data Analysis, Communication Skills, Process Audit...;Greater Noida;2-7 yrs
+Executive;KPIT Technologies Ltd.;Training Need Analysis, HR Functions, Database Management, Query Resolution;Pune;2-4 yrs
+Sr. Executive/ Assistant Manager - Naukri E-learning Sales;Info Edge India Ltd.;B2C, Outbound Sales, telesales, tele sales, sales, inside sales...;Noida;1-6 yrs
+Senior Is/it Internal Auditor;Nokia Solutions and Networks India (P)Ltd.;Auditing, Internal Audit, Accounting, Finance, External Audit, IT Audit...;Gurgaon;2-3 yrs
+Dot Net Developer - Lifescience Domain/e-notenbook;Indecomm Technology Services;e - lan, electronic notebook, biovia, e - notebook, symmx, accelrys, Perkin...;Bengaluru;5-10 yrs
+Senior Technical Specialist;Nokia Solutions and Networks India (P)Ltd.;Service, Tools, Cisco, Ethernet, Computer science, VLAN, VISIO, QOS, DHCP...;Chennai;15-18 yrs
+Technical Leader;Nokia Solutions and Networks India (P)Ltd.;Service, Tools, Cisco, Coding, Ethernet, Module, Computer science, VLAN...;Chennai;7-10 yrs
+Technical Specialist;Nokia Solutions and Networks India (P)Ltd.;Service, Tools, Cisco, Ethernet, Computer science, VLAN, VISIO, QOS, DHCP...;Chennai;11-13 yrs
+Business Constultant, Analytics Office APAC;Nokia Solutions and Networks India (P)Ltd.;Customer experience management, Consulting, Tools, Analytics, Bss...;Mumbai;1-3 yrs
+Technical Specialist;Nokia Solutions and Networks India (P)Ltd.;Mentor, Data structures, Algorithms, Ethernet, Cisco, Debugging, Service...;Chennai;11-13 yrs
+Senior Business Consultant, Analytics Office APAC;Nokia Solutions and Networks India (P)Ltd.;Customer experience management, Consulting, Customer care, Tools, Analytics...;Mumbai;5-7 yrs
+Lead Developer;Nokia Solutions and Networks India (P)Ltd.;iPhone, JSON, Service, SDK, Computer science, Tools, Test scripts, GIT...;Chennai;3-5 yrs
+Care Platforms - UI Developer;Nokia Solutions and Networks India (P)Ltd.;HTML, jQuery, DHTML, Troubleshooting, Service, System architecture...;India;3-5 yrs
+Small Cell 4g/3g Development;Edge Executive Search Pvt. Ltd.;LTE, 4G, 3G, UMTS, Small Cells, c, C++, MAC, RLC, PHY, RRC;Bengaluru;4-8 yrs
+Head of Big Data Analytics : Global Telecom Leader;Edge Executive Search Pvt. Ltd.;Data Science, Python, Machine Learning, Java, R, Big Data Analytics...;Bengaluru, Mumbai, Chennai, Gurgaon, Noida;12-22 yrs

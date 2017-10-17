@@ -1,0 +1,10 @@
+name: myApp
+title: myApp
+account: sapate
+server: shinyapps.io
+appId: 192415
+bundleId: 882633
+url: https://sapate.shinyapps.io/myApp/
+when: 1498497580.99386
+asMultiple: FALSE
+asStatic: FALSE
